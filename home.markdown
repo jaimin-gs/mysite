@@ -5,3 +5,5 @@ permalink: "/"
 ---
 
 Welcome to Jaimin Patel website
+
+![Get invited form.png](/uploads/Get%20invited%20form.png)
