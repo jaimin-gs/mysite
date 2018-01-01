@@ -6,4 +6,4 @@ permalink: "/"
 
 Welcome to Jaimin Patel website
 
-![Get invited form.png](/uploads/Get%20invited%20form.png)
+{https://letstalkpayments.com/wp-content/uploads/2017/11/Paypal1.png}
