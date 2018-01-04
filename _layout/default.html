@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+
+<body class="{{ layout.class | slugify }} {{path}} {{collection_url}} {{ page.title | slugify }} {% for banner in banners limit:1 %}banner-active{% endfor %}">
+<div class="container">
+<main role="main">
+<div class="layout {{ layout.class | slugify }}">
+{{ content }}
+</div>
+</main>
+</div>
+<!-- scripts -->
+<script type="text/javascript" src="http://code.jquery.com/jquery-2.2.4.min.js"></script>
+<script src="{{ "/assets/scripts" | prepend: site.baseurl }}/jquery.waypoints.min.js"></script>
+<script src="{{ "/assets/scripts" | prepend: site.baseurl }}/sticky.min.js"></script>
+<script type="text/javascript" src="{{ "/assets/scripts" | prepend: site.baseurl }}/plugins.js"></script>
+<script type="text/javascript" src="{{ "/assets/scripts" | prepend: site.baseurl }}/app.js"></script>
+</body>
+</html>
