@@ -2,6 +2,9 @@
 title: mysite
 timezone: UTC
 collections:
+  author:
+    title: Author
+    output: true
   posts:
     title: Posts
     output: true
