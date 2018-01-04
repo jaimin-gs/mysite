@@ -5,3 +5,5 @@ permalink: "/"
 ---
 
 Welcome to Jaimin Patel website
+
+![blue-ocean-strategy-b5a49d.png](/uploads/blue-ocean-strategy-b5a49d.png)
