@@ -1,7 +1,7 @@
 ---
 title: test
 date: 2018-01-04 07:52:00 Z
-permalink: "/"
+published: false
 ---
 
 test
